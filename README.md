@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
- <img src="https://giphy.com/embed/iSQvCHnEuN0eIQwJh7.gif" />
+ <img src="https://giphy.com/embed/iSQvCHnEuN0eIQwJh7.gif" width="50" height="50" frameBorder="0" class="giphy-embed" />
 </div>
 <br>
 <div id="counter" align="center">
-<!--   <img src="https://komarev.com/ghpvc/?username=AnatolyKostarev&color=yellow&style=plastic)"/> -->
-  <img src="https://giphy.com/embed/iSQvCHnEuN0eIQwJh7.gif" width="50" height="50" frameBorder="0" class="giphy-embed" />
+  <img src="https://komarev.com/ghpvc/?username=AnatolyKostarev&color=yellow&style=plastic)"/>
 </div>
