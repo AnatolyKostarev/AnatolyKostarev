@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="150" class="giphy-embed" />
+ <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" class="giphy-embed" />
 </div>
 <br>
 <div id="counter" align="center">
