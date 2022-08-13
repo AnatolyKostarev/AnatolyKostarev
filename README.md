@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 <br>
 <div id="counter" align="center">
 <!--   <img src="https://komarev.com/ghpvc/?username=AnatolyKostarev&color=yellow&style=plastic)"/> -->
-  <iframe src="https://giphy.com/embed/iSQvCHnEuN0eIQwJh7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Veeam-it-programming-veeam-iSQvCHnEuN0eIQwJh7">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/iSQvCHnEuN0eIQwJh7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen />
 </div>
