@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=AnatolyKostarev&color=yellow&style=plastic)
+![](https://komarev.com/ghpvc/?username=AnatolyKostarev&color=yellow&style=plastic)
 </div>
