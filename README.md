@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" class="giphy-embed" />
+  <p>React</p>
 </div>
 <div align="center">
-  <img src="https://images.viblo.asia/955fdb48-881d-443e-94b9-4fb3596e3abf.gif" width="50" />
+  <img src="https://images.viblo.asia/955fdb48-881d-443e-94b9-4fb3596e3abf.gif" width="150" />
   <p>React Native</p>
 </div>
 <br>
