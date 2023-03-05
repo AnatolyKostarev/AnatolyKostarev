@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" class="giphy-embed" />
+ <img stc="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.alexdevero.com%2Freact-native-expo-mobile-app%2F&psig=AOvVaw1Y55ldR0Y4NWeRchx248Pz&ust=1678135648590000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjUwNHUxf0CFQAAAAAdAAAAABAD" width="50 />
 </div>
 <br>
 <div id="counter" align="center">
