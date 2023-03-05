@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
+<!-- <div id="header" align="center">
  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" class="giphy-embed" />
   <p>React</p>
-</div>
+</div> -->
 <div align="center">
   <img src="https://images.viblo.asia/955fdb48-881d-443e-94b9-4fb3596e3abf.gif" width="150" />
+  <p>React</p>
   <p>React Native</p>
 </div>
 <div align="center">
