@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <p>React Native</p>
 </div>
 <div align="center">
-  <img src="[[https://images.viblo.asia/955fdb48-881d-443e-94b9-4fb3596e3abf.gif](https://i.pinimg.com/originals/18/54/da/1854da4070b3cf1690d83d8c127346d1.gif)](https://i.pinimg.com/originals/18/54/da/1854da4070b3cf1690d83d8c127346d1.gif)" width="150" />
+  <img src="https://i.pinimg.com/originals/18/54/da/1854da4070b3cf1690d83d8c127346d1.gif" width="150" />
   <p>GraphQL</p>
 </div>
 <br>
